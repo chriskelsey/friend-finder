@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "An app that takes a series of questions and outputs a profile based on those questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskelsey/friend-finder.git"
+  },
+  "author": "Christopher Kelsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskelsey/friend-finder/issues"
+  },
+  "homepage": "https://github.com/chriskelsey/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
