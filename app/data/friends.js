@@ -1,0 +1,33 @@
+module.export = [
+  {
+    "name":"Space Ghost",
+    "photo":"http://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/spaceghost_0.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },{
+    "name":"Zorak",
+    "photo":"https://vignette.wikia.nocookie.net/spaceghost/images/a/a4/Zorak.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  }
+]
